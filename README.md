@@ -1,1 +1,1 @@
-# Nazalekser-Data-Visualization-and-Communication-with-Tableau
+# Data Visualization and Communication with Tableau course assignments.
